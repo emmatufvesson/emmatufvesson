@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a novis when it comes to programming, hopefully not for long though. Currently studying AI and webdevelopment.
+
+cheers
+
 <!--
 **emmatufvesson/emmatufvesson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
